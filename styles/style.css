@@ -1,0 +1,122 @@
+body {}
+
+.bg_color {
+    background: #ee82ee29;
+}
+
+.icon_image {
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.nav_items {
+    float: right;
+}
+
+.nav_items ul li {
+    padding: 20px;
+}
+
+.nav_items ul li a {
+    font-size: 18px;
+}
+
+.my_images {
+    width: 100%;
+    height: 300px;
+}
+
+.my_btn {
+    padding: 10px 20px;
+    background: #65bd0d;
+    margin-left: 150px;
+    font-size: 20px;
+    color: white;
+}
+
+.style_price {
+    color: #fabe4c;
+    font-size: 30px;
+}
+
+.ject_card_footer {
+    background: none;
+    border: 0px;
+}
+
+.style_apply {
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.color_style {
+    color: #fabe4c;
+}
+
+.btn_float {
+    margin-left: 10px;
+}
+
+.my_images {
+    background: #a9a9a92b;
+    border-radius: 2%;
+}
+
+.my_card_footer {
+    background-color: white;
+}
+
+h1,
+h3,
+h5 {
+    font-weight: bold;
+}
+
+.image_style {
+    width: 120px;
+    height: 90px;
+    padding: 10px 5px;
+}
+
+.image_style img {
+    width: 100%;
+    height: 100%;
+}
+
+.body_style {
+    padding: 10px;
+}
+
+.another_style {
+    border-radius: 5px;
+}
+
+.single_block {
+    padding: 20px 10px;
+}
+
+footer {
+    font-size: 20px;
+    color: teal;
+}
+
+.my_bg_color {
+    background: #ee82ee29;
+    height: 400px;
+}
+
+.my_btn_color {
+    background: #fabe4c;
+    padding: 10px 30px;
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.my-hover:hover {
+    background-color: #65bd0d;
+}
